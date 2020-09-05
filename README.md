@@ -9,12 +9,4 @@
   <li> Continue playing as long as you can repeat each sequence of sig- nals correctly. After the 5th, 9th and 13th signals in a sequence, Simon automatically speeds up.</li>
   <li> If you fail to repeat a sequence exactly,Simon responds with a <strong>"RAZZ"</strong> sound. <strong>Game over Try Again </strong></li>
 </ul>
-
-
-
-
-
-
-
-
-<a href="https://github.com/itxyousafWebdev/JavaScript-fun-game-project/edit/master/README.md"> <img src="gamepic.PNG"></a>
+<a href="https://itxyousafwebdev.github.io/JavaScript-fun-game-project/"> <img src="gamepic.PNG"></a>
